@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# My Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Portfolio Preview
 
-## Available Scripts
+### Overview
+I'm a third year computer science student at Ontario Tech University, and I'm passionate about creating innovative software solutions. This personal portfolio showcases my skills, projects, and experiences, serving as a digital resume for potential employers.
 
-In the project directory, you can run:
+### Features
+- **Aesthetic Design**: The portfolio is visually appealing and user-friendly, featuring a clean and modern interface.
+- **Responsive**: Built using HTML, CSS, and React, the portfolio is fully responsive and works seamlessly across various devices and screen sizes.
+- **Projects**: Includes a section highlighting key projects, complete with descriptions and links to code repositories and live demos.
+- **About Me**: Learn more about my educational background, career aspirations, and personal interests in the "About Me" section.
+- **Contact**: Easily get in touch through the provided contact details and links to social media profiles and GitHub.
 
-### `npm start`
+### How to Access
+You can view the portfolio by visiting [My Portfolio](https://wasayaamir.github.io/wasayportfolio/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Technologies Used
+- **HTML**
+- **CSS**
+- **React**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Feedback and Contact
+I'm always eager to improve and grow as a software engineer. Your feedback is valuable! Feel free to reach out via the contact methods provided in the portfolio or open an issue on this GitHub repository.
 
-### `npm test`
+### Looking to Collaborate?
+I'm actively seeking a software engineering internship opportunity for the upcoming summer. If you're interested in working with a dedicated and aspiring software engineer, don't hesitate to get in touch.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for considering my portfolio, and I look forward to potentially working with you!
