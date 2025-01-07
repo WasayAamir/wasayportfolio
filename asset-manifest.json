@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wasayportfolio/static/css/main.c57519e8.css",
+    "main.js": "/wasayportfolio/static/js/main.1d091cb1.js",
+    "static/media/spam.png": "/wasayportfolio/static/media/spam.5033747a3511996477ec.png",
+    "static/media/wasay new pic done.jpg": "/wasayportfolio/static/media/wasay new pic done.b5fb18ed59fa35d4bc72.jpg",
+    "static/media/expense.png": "/wasayportfolio/static/media/expense.ffc4a30d9a98fa57e7b9.png",
+    "static/media/about me.jpg": "/wasayportfolio/static/media/about me.e8363d16f40f71b00a25.jpg",
+    "static/media/leetcode.png": "/wasayportfolio/static/media/leetcode.c726c6e4c19333bb365c.png",
+    "static/media/web.jpg": "/wasayportfolio/static/media/web.c42c2aac4fce385b2162.jpg",
+    "static/media/nba.jpg": "/wasayportfolio/static/media/nba.772642cd98f9728bc468.jpg",
+    "static/media/fitsync.jpg": "/wasayportfolio/static/media/fitsync.f6fb551532dd29b3bba7.jpg",
+    "index.html": "/wasayportfolio/index.html",
+    "main.c57519e8.css.map": "/wasayportfolio/static/css/main.c57519e8.css.map",
+    "main.1d091cb1.js.map": "/wasayportfolio/static/js/main.1d091cb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57519e8.css",
+    "static/js/main.1d091cb1.js"
+  ]
+}
